@@ -1,2 +1,3 @@
-# CodeNotes
-Personal Code Notes
+# Code Notes
+[Python Notes](./notes/pythonNotes.md)
+
